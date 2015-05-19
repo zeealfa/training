@@ -3,9 +3,12 @@ var app = {
         var self = this;
         this.detailsURL = /^#employees\/(\d{1,})/;
         this.registerEvents();
+
         this.store = new MemoryStore(function() {
             self.route();
         });
+
+
     },
     route: function() {
         var hash = window.location.hash;
