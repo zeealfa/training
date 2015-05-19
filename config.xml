@@ -10,7 +10,8 @@
     <description>
         A simple employee directory application
     </description>
- 
+    <icon src="icon.png" />
+
     <author href="http://coenraets.org" email="ccoenraets@gmail.com">
         Christophe Coenraets
     </author>
