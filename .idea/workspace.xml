@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c1f1a24-a78b-486b-b4d1-505a9b580158" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Andy_Bernard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Angela_Martin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Creed_Bratton.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Dwight_Schrute.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Jim_Halpert.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Kelly_Kapoor.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Kevin_Malone.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Meredith_Palmer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Michael_Scott.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Oscar_Martinez.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Pamela_Beesly.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Phyllis_Lapin.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Ryan_Howard.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Stanley_Hudson.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/Toby_Flenderson.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/unknown.jpg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/EmployeeView.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/HomeView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/handlebars.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index-lama.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/iscroll.js" />
@@ -28,12 +11,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/ls-store.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/memory-store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sikadapp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/source-sans-pro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/storage/websql-store.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -64,14 +41,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.55140185" vertical-offset="5841" max-vertical-offset="6494">
-              <caret line="354" column="0" selection-start-line="354" selection-start-column="0" selection-end-line="354" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.682243" vertical-offset="6173" max-vertical-offset="6494">
+              <caret line="376" column="7" selection-start-line="376" selection-start-column="7" selection-end-line="376" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1432836518784" expanded="true" signature="15255:15361" placeholder="..." />
+                <marker date="1432836641748" expanded="true" signature="15255:15361" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -214,13 +191,21 @@
       <option name="number" value="Default" />
       <updated>1432830742778</updated>
     </task>
+    <task id="LOCAL-00001" summary="Start 1">
+      <created>1432836626709</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1432836626709</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -256,6 +241,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Start 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -389,14 +376,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.55140185" vertical-offset="5841" max-vertical-offset="6494">
-          <caret line="354" column="0" selection-start-line="354" selection-start-column="0" selection-end-line="354" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.682243" vertical-offset="6173" max-vertical-offset="6494">
+          <caret line="376" column="7" selection-start-line="376" selection-start-column="7" selection-end-line="376" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#0;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#1;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#2;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#a#0;n#li#3;n#ul#0;n#li#1;n#ul#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1432836518784" expanded="true" signature="15255:15361" placeholder="..." />
+            <marker date="1432836641748" expanded="true" signature="15255:15361" placeholder="..." />
           </folding>
         </state>
       </provider>
