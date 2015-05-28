@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "id.sikad.app"
         versionCode = "10"
         version     = "1.1.0">
  
@@ -12,7 +12,7 @@
     </description>
     <icon src="icon.png" />
 
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
+    <author href="http://sikad.id" email="zee.alfa@gmail.com">
        Zee Alfa
     </author>
  
