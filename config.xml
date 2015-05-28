@@ -5,10 +5,10 @@
         versionCode = "10"
         version     = "1.1.0">
  
-    <name>Employee Directory</name>
+    <name>SIKAD</name>
  
     <description>
-        A simple employee directory application
+        Sistem Akademik
     </description>
     <icon src="icon.png" />
 
