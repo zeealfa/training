@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1f1a24-a78b-486b-b4d1-505a9b580158" name="Default" comment="Logged built 6">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/hashed.js" />
+    <list default="true" id="1c1f1a24-a78b-486b-b4d1-505a9b580158" name="Default" comment="Logged built 8">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -54,10 +53,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68955225" vertical-offset="5269" max-vertical-offset="6140">
-              <caret line="275" column="20" selection-start-line="275" selection-start-column="20" selection-end-line="275" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.53731346" vertical-offset="1380" max-vertical-offset="6140">
+              <caret line="78" column="131" selection-start-line="78" selection-start-column="131" selection-end-line="78" selection-end-column="131" />
               <folding>
-                <marker date="1432903291644" expanded="true" signature="5545:5651" placeholder="..." />
+                <marker date="1432903845666" expanded="true" signature="5545:5651" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -416,7 +415,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432902619806</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Logged built 6">
+      <created>1432903379034</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1432903379034</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -482,7 +487,8 @@
     <MESSAGE value="Logged built 7" />
     <MESSAGE value="Logged built 5" />
     <MESSAGE value="Logged built 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Logged built 6" />
+    <MESSAGE value="Logged built 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logged built 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -967,10 +973,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68955225" vertical-offset="5269" max-vertical-offset="6140">
-          <caret line="275" column="20" selection-start-line="275" selection-start-column="20" selection-end-line="275" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.53731346" vertical-offset="1380" max-vertical-offset="6140">
+          <caret line="78" column="131" selection-start-line="78" selection-start-column="131" selection-end-line="78" selection-end-column="131" />
           <folding>
-            <marker date="1432903291644" expanded="true" signature="5545:5651" placeholder="..." />
+            <marker date="1432903845666" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
         </state>
       </provider>
