@@ -261,7 +261,7 @@
             var theUri = '//' + uri + '/app.php';
             var nisnya = $('#nis').val();
             var passw = $('#pass').val();
-            $('#divResult').html('');
+            $('#divResult').html('Loading....');
             $.ajax({
                 url: theUri,
                 async: false,
@@ -275,8 +275,9 @@
                     if (results.akses == 1) {
                         open('index1.html', '_self');
                     }
-                }, error: function ()
+                }, error: function (e)
                 {
+                    $('#divResult').html(e.message);
 
                 }
 
