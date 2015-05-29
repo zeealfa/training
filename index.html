@@ -65,23 +65,23 @@
 
                                     <div class="space-6"></div>
 
-                                    <form>
+                                    <form action="javascript:void(0)">
                                         <fieldset>
                                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
-															<input type="text" class="form-control" placeholder="NIS atau NISN"/>
+															<input type="text" class="form-control" placeholder="NIS atau NISN" id="nis" autocomplete="off"/>
 															<i class="ace-icon fa fa-user"></i>
 														</span>
                                             </label>
 
                                             <label class="block clearfix">
 														<span class="block input-icon input-icon-right">
-															<input type="password" class="form-control" placeholder="Password"/>
+															<input type="password" class="form-control" placeholder="Password" id="pass"/>
 															<i class="ace-icon fa fa-lock"></i>
 														</span>
                                             </label>
                                             <label class="block clearfix">
-                                                <input type="text" name="idsikad" id="idsikad">
+                                                <input type="text" name="idsikad" id="idsikad" autocomplete="off">
 
                                                 </select>
                                             </label>
@@ -89,13 +89,17 @@
                                             <div class="space"></div>
 
                                             <div class="clearfix">
-                                                <button type="button" class="width-35 pull-right btn btn-sm btn-primary">
+                                                <button type="submit" class="width-35 pull-right btn btn-sm btn-primary" id="btnLogin">
                                                     <i class="ace-icon fa fa-key"></i>
                                                     <span class="bigger-110">Login</span>
                                                 </button>
                                             </div>
 
                                             <div class="space-4"></div>
+                                            <div class="clearfix h5 text-danger" id="divResult">
+
+                                            </div>
+
                                         </fieldset>
                                     </form>
                                 </div>
@@ -144,6 +148,8 @@
 
 <!-- inline scripts related to this page -->
 <script type="text/javascript" src="assets/js/select2.min.js"></script>
+<script type="text/javascript" src="assets/js/hashed.js"></script>
+<script type="text/javascript" src="assets/js/bootbox.min.js"></script>
 <script type="text/javascript">
     //you don't need this, just used for changing background
     jQuery(function ($)
@@ -158,11 +164,12 @@
                 async: false,
                 jsonpCallback: 'jsonCallback',
                 contentType: "application/json",
-                dataType: 'jsonp', data: function (term, page)
+                dataType: 'jsonp',
+                data: function (term, page)
                 {
                     return {
                         tipe: '1',
-                        kunci:'letmepass',
+                        kunci: 'letmepass',
                         page_limit: 10, // page size
                         page: page, // page number
                         q: term
@@ -202,7 +209,6 @@
             },
             formatSearching: function ()
             {
-                $('.brs_data').remove().empty();
                 return 'Tunggu...'
             },
             formatNoMatches: function ()
@@ -221,8 +227,64 @@
                 callback(data);
             }
         });
+        $('#btnLogin').on('ontouchstart', function ()
+        {
+            loadThis();
+        })
+        $('#btnLogin').on('click', function ()
+        {
+            loadThis();
+        })
+        function loadThis()
+        {
+            $.ajax({
+                url: 'http://app.sikad.id/app.php',
+                async: false,
+                jsonpCallback: 'jsonCallback',
+                contentType: "application/json",
+                dataType: 'jsonp',
+                data: {tipe: 2, kunci: 'letmepass', idsikad: $('#idsikad').val()},
+                success: function (results)
+                {
+                    var theResult = results.items;
+                    logThis(theResult.URI);
+                }, error: function ()
+                {
 
+                }
+
+            });
+        }
+
+        function logThis(uri)
+        {
+            var theUri = '//' + uri + '/app.php';
+            var nisnya = $('#nis').val();
+            var passw = $('#pass').val();
+            $('#divResult').html('');
+            $.ajax({
+                url: theUri,
+                async: false,
+                jsonpCallback: 'jsonCallback',
+                contentType: "application/json",
+                dataType: 'jsonp',
+                data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
+                success: function (results)
+                {
+                    $('#divResult').html(results.pesan);
+                    if (results.akses == 1) {
+                        open('index1.html', '_self');
+                    }
+                }, error: function ()
+                {
+
+                }
+
+            });
+
+        }
     });
+
 </script>
 <!--<script src="main.js"></script>-->
 </body>
