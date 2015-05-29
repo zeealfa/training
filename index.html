@@ -261,9 +261,7 @@
             var theUri = '//' + uri + '/app.php';
             var nisnya = $('#nis').val();
             var passw = $('#pass').val();
-            $('#divResult').html('Loading....');
             open('index1.html', '_self');
-            /*
             $.ajax({
                 url: theUri,
                 async: false,
@@ -273,10 +271,14 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
                 success: function (results)
                 {
+                    $('#divResult').html('Loading....');
+
+                    /*
                     $('#divResult').html(results.pesan);
                     if (results.akses == 1) {
                         open('index1.html', '_self');
                     }
+                    */
                 }, error: function (e)
                 {
                     $('#divResult').html(e.message);
@@ -284,7 +286,7 @@
                 }
 
             });
-*/
+
         }
     });
 
