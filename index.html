@@ -271,10 +271,15 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
                 success: function (results)
                 {
+                    $('#divResult').html('Prosesing-0');
                     var strpesan=results.pesan;
+                    $('#divResult').html('Prosesing-1');
                     var strakses=results.akses;
+                    $('#divResult').html('Prosesing-2');
                     $('#divResult').html(strpesan);
+                    $('#divResult').html('Prosesing-3');
                     if (strakses == '1') {
+                        $('#divResult').html('Prosesing-4');
                         open('index1.html', '_self');
                     }
 
