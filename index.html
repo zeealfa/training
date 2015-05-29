@@ -230,6 +230,9 @@
         {
             loadThis();
         });
+        $('form').on('submit',function() {
+            loadThis();
+        });
         function loadThis()
         {
             $.ajax({
@@ -242,7 +245,9 @@
                 success: function (results)
                 {
                     var theResult = results.items;
+                    if(theResult)
                     logThis(theResult.URI);
+                    else $('#divResult').html('Ada Kesalahan');
                 }, error: function ()
                 {
 
@@ -253,6 +258,7 @@
 
         function logThis(uri)
         {
+            $('#divResult').html('Loading...');
             var theUri = '//' + uri + '/app.php';
             var nisnya = $('#nis').val();
             var passw = $('#pass').val();
@@ -265,16 +271,13 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
                 success: function (results)
                 {
-                    try {
-                        $('#divResult').html(results.pesan);
-                    } catch (err) {
-                        $('#divResult').html(err);
-                    }
-/*
-                    if (results.akses == 1) {
+                    var strpesan=results.pesan;
+                    var strakses=results.akses;
+                    $('#divResult').html(strpesan);
+                    if (strakses == '1') {
                         open('index1.html', '_self');
                     }
-                    */
+
                 }, error: function (e)
                 {
 //                    $('#divResult').html(e.message);
@@ -287,7 +290,7 @@
     });
 
 </script>
-<!--<script src="main.js"></script>-->
+<script src="main.js"></script>
 </body>
 <script src="phonegap.js"></script>
 </html>
