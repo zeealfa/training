@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c1f1a24-a78b-486b-b4d1-505a9b580158" name="Default" comment="">
+    <list default="true" id="1c1f1a24-a78b-486b-b4d1-505a9b580158" name="Default" comment="Logged built 7">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sikadapp.iws" />
@@ -49,13 +50,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.068966" vertical-offset="5148" max-vertical-offset="6020">
-              <caret line="272" column="46" selection-start-line="272" selection-start-column="46" selection-end-line="272" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.1522388" vertical-offset="1589" max-vertical-offset="5980">
+              <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
               <folding>
-                <marker date="1432889425791" expanded="true" signature="5603:5709" placeholder="..." />
+                <marker date="1432889704221" expanded="true" signature="5545:5651" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -71,10 +72,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20221/var/www/html/sikad/app.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.73344946" vertical-offset="1024" max-vertical-offset="1598">
+            <state vertical-scroll-proportion="-15.538462" vertical-offset="1024" max-vertical-offset="1598">
               <caret line="84" column="27" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="27" />
               <folding>
                 <marker date="1432889317184" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
@@ -363,14 +364,20 @@
       <option name="project" value="LOCAL" />
       <updated>1432889452669</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Logged built 7">
+      <created>1432889469702</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1432889469702</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="1" width="1366" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32961783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -884,19 +891,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.068966" vertical-offset="5148" max-vertical-offset="6020">
-          <caret line="272" column="46" selection-start-line="272" selection-start-column="46" selection-end-line="272" selection-end-column="46" />
-          <folding>
-            <marker date="1432889425791" expanded="true" signature="5603:5709" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/scp20221/var/www/html/sikad/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73344946" vertical-offset="1024" max-vertical-offset="1598">
+        <state vertical-scroll-proportion="-15.538462" vertical-offset="1024" max-vertical-offset="1598">
           <caret line="84" column="27" selection-start-line="84" selection-start-column="14" selection-end-line="84" selection-end-column="27" />
           <folding>
             <marker date="1432889317184" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
@@ -904,6 +901,16 @@
             <marker date="1432889317184" expanded="true" signature="2031:2082" placeholder="SELECT URI f..t_sikad..." />
             <marker date="1432889317184" expanded="true" signature="2444:2560" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
             <marker date="1432889317184" expanded="true" signature="2877:2959" placeholder="SELECT NIS F..t_siswa_mir..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1522388" vertical-offset="1589" max-vertical-offset="5980">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+          <folding>
+            <marker date="1432889704221" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
         </state>
       </provider>

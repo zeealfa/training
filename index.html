@@ -83,7 +83,6 @@
                                             <label class="block clearfix">
                                                 <input type="text" name="idsikad" id="idsikad" autocomplete="off">
 
-                                                </select>
                                             </label>
 
                                             <div class="space"></div>
@@ -230,11 +229,7 @@
         $('#btnLogin').on('ontouchstart', function ()
         {
             loadThis();
-        })
-        $('#btnLogin').on('click', function ()
-        {
-            loadThis();
-        })
+        });
         function loadThis()
         {
             $.ajax({
@@ -270,8 +265,11 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
                 success: function (results)
                 {
-                    $('#divResult').html('test');
-                    $('#divResult').html(results.pesan);
+                    try {
+                        $('#divResult').html(results.pesan);
+                    } catch (err) {
+                        $('#divResult').html(err);
+                    }
 /*
                     if (results.akses == 1) {
                         open('index1.html', '_self');
