@@ -270,7 +270,8 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: passw, uri: uri},
                 success: function (results)
                 {
-                    console.log(results);
+                    open('index1.html', '_self');
+
                     $('#divResult').html('Prosesing-0');
                     var strpesan=results.pesan;
                     $('#divResult').html('Prosesing-1');
@@ -285,7 +286,7 @@
 
                 }, error: function (e)
                 {
-                    $('#divResult').html(e);
+//                    $('#divResult').html(e.message);
 
                 }
 
