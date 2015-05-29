@@ -147,7 +147,6 @@
 
 <!-- inline scripts related to this page -->
 <script type="text/javascript" src="assets/js/select2.min.js"></script>
-<script type="text/javascript" src="assets/js/hashed.js"></script>
 <script type="text/javascript" src="assets/js/bootbox.min.js"></script>
 <script type="text/javascript">
     //you don't need this, just used for changing background
@@ -271,6 +270,7 @@
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: passw, uri: uri},
                 success: function (results)
                 {
+                    console.log(results);
                     $('#divResult').html('Prosesing-0');
                     var strpesan=results.pesan;
                     $('#divResult').html('Prosesing-1');
@@ -285,7 +285,7 @@
 
                 }, error: function (e)
                 {
-//                    $('#divResult').html(e.message);
+                    $('#divResult').html(e);
 
                 }
 
