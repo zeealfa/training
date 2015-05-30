@@ -257,15 +257,13 @@
 
         function logThis(uri)
         {
-            $('#divResult').html('Loading...');
+            $('#divResult').html('Loading...'+uri);
             var theUri = '//' + uri + '/app.php';
             var nisnya = $('#nis').val();
             var passw = $('#pass').val();
             $.ajax({
                 url: theUri,
-                async: false,
                 jsonpCallback: 'jsonCallback',
-                contentType: "application/json",
                 dataType: 'jsonp',
                 data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: passw, uri: uri},
                 success: function (results)

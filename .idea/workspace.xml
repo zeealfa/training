@@ -32,10 +32,59 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19130434" vertical-offset="4643" max-vertical-offset="5304">
-              <caret line="273" column="0" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.46678966" vertical-offset="4184" max-vertical-offset="5270">
+              <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
               <folding>
-                <marker date="1432938163320" expanded="true" signature="5545:5651" placeholder="..." />
+                <marker date="1432938846578" expanded="true" signature="5545:5651" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabel13_8.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="459" max-vertical-offset="12988">
+              <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
+              <folding>
+                <marker date="1432958266659" expanded="true" signature="559:629" placeholder="SELECT * FRO..t_pegawai_rombel..." />
+                <marker date="1432958266659" expanded="true" signature="738:1124" placeholder="DELETE FROM ..." />
+                <marker date="1432958266659" expanded="true" signature="1211:1797" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+                <marker date="1432958266659" expanded="true" signature="1211:1806" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+                <marker date="1432958266659" expanded="true" signature="1965:2020" placeholder="SELECT * FRO..t_sikad_konversi_sikap..." />
+                <marker date="1432958266659" expanded="true" signature="2245:2481" placeholder="SELECT NILAI..t_sikad_konversi..." />
+                <marker date="1432958266659" expanded="true" signature="2640:2875" placeholder="SELECT NILAI..t_sikad_konversi..." />
+                <marker date="1432958266659" expanded="true" signature="3566:5174" placeholder="SELECT t_sik..t_sikad_nilai_master..." />
+                <marker date="1432958266659" expanded="true" signature="8060:8626" placeholder="SELECT ID_RA..t_sikad_rapor_deskripsi..." />
+                <marker date="1432958266659" expanded="true" signature="8788:9171" placeholder="INSERT INTO ..." />
+                <marker date="1432958266659" expanded="true" signature="12969:13170" placeholder="SELECT GELAR..t_pegawai..." />
+                <marker date="1432958266659" expanded="true" signature="13232:13329" placeholder="SELECT GELAR..t_pegawai..." />
+                <marker date="1432958266659" expanded="true" signature="13832:14191" placeholder="SELECT *,NM_..t_sekolah_identitas..." />
+                <marker date="1432958266659" expanded="true" signature="14210:14643" placeholder="SELECT NIP,N..t_pegawai_rombel..." />
+                <marker date="1432958266659" expanded="true" signature="15266:15817" placeholder="SELECT t_sis..t_siswa_tingkat..." />
+                <marker date="1432958266659" expanded="true" signature="18157:18777" placeholder="SELECT t_sik..t_sikad_enrollment..." />
+                <marker date="1432958266659" expanded="true" signature="19803:19898" placeholder="SELECT NM_KE..r_sikad_kelompok_mapel..." />
+                <marker date="1432958266659" expanded="true" signature="21382:21453" placeholder="SELECT GELAR..t_pegawai..." />
+                <marker date="1432958266659" expanded="true" signature="21559:21659" placeholder="SELECT STATU..t_pegawai_aktif..." />
+                <marker date="1432958266659" expanded="true" signature="21965:22497" placeholder="SELECT DESKR..t_sikad_rapor_deskripsi..." />
+                <marker date="1432958266659" expanded="true" signature="26221:26367" placeholder="SELECT * FRO..t_nilai_rapor..." />
+                <marker date="1432958266659" expanded="true" signature="27017:27097" placeholder="SELECT NM_TI..r_tingkat_kelas..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55370/var/www/html/sikad/app.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1649">
+              <caret line="8" column="65" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="65" />
+              <folding>
+                <marker date="1432902622000" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
+                <marker date="1432902622000" expanded="true" signature="1198:1268" placeholder="SELECT ID_SI..t_sikad..." />
+                <marker date="1432902622000" expanded="true" signature="2031:2082" placeholder="SELECT URI f..t_sikad..." />
+                <marker date="1432902622000" expanded="true" signature="2444:2560" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+                <marker date="1432902622000" expanded="true" signature="2877:2959" placeholder="SELECT NIS F..t_siswa_mir..." />
               </folding>
             </state>
           </provider>
@@ -55,6 +104,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php" />
       </list>
     </option>
   </component>
@@ -157,7 +207,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432937146937</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="coba lagi">
+      <created>1432938175327</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1432938175327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -174,7 +230,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3305369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3305369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -213,12 +269,57 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55370/var/www/html/sikad/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="8" column="65" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="65" />
+          <folding>
+            <marker date="1432902622000" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
+            <marker date="1432902622000" expanded="true" signature="1198:1268" placeholder="SELECT ID_SI..t_sikad..." />
+            <marker date="1432902622000" expanded="true" signature="2031:2082" placeholder="SELECT URI f..t_sikad..." />
+            <marker date="1432902622000" expanded="true" signature="2444:2560" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+            <marker date="1432902622000" expanded="true" signature="2877:2959" placeholder="SELECT NIS F..t_siswa_mir..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="459" max-vertical-offset="12988">
+          <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
+          <folding>
+            <marker date="1432958266659" expanded="true" signature="559:629" placeholder="SELECT * FRO..t_pegawai_rombel..." />
+            <marker date="1432958266659" expanded="true" signature="738:1124" placeholder="DELETE FROM ..." />
+            <marker date="1432958266659" expanded="true" signature="1211:1797" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+            <marker date="1432958266659" expanded="true" signature="1211:1806" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
+            <marker date="1432958266659" expanded="true" signature="1965:2020" placeholder="SELECT * FRO..t_sikad_konversi_sikap..." />
+            <marker date="1432958266659" expanded="true" signature="2245:2481" placeholder="SELECT NILAI..t_sikad_konversi..." />
+            <marker date="1432958266659" expanded="true" signature="2640:2875" placeholder="SELECT NILAI..t_sikad_konversi..." />
+            <marker date="1432958266659" expanded="true" signature="3566:5174" placeholder="SELECT t_sik..t_sikad_nilai_master..." />
+            <marker date="1432958266659" expanded="true" signature="8060:8626" placeholder="SELECT ID_RA..t_sikad_rapor_deskripsi..." />
+            <marker date="1432958266659" expanded="true" signature="8788:9171" placeholder="INSERT INTO ..." />
+            <marker date="1432958266659" expanded="true" signature="12969:13170" placeholder="SELECT GELAR..t_pegawai..." />
+            <marker date="1432958266659" expanded="true" signature="13232:13329" placeholder="SELECT GELAR..t_pegawai..." />
+            <marker date="1432958266659" expanded="true" signature="13832:14191" placeholder="SELECT *,NM_..t_sekolah_identitas..." />
+            <marker date="1432958266659" expanded="true" signature="14210:14643" placeholder="SELECT NIP,N..t_pegawai_rombel..." />
+            <marker date="1432958266659" expanded="true" signature="15266:15817" placeholder="SELECT t_sis..t_siswa_tingkat..." />
+            <marker date="1432958266659" expanded="true" signature="18157:18777" placeholder="SELECT t_sik..t_sikad_enrollment..." />
+            <marker date="1432958266659" expanded="true" signature="19803:19898" placeholder="SELECT NM_KE..r_sikad_kelompok_mapel..." />
+            <marker date="1432958266659" expanded="true" signature="21382:21453" placeholder="SELECT GELAR..t_pegawai..." />
+            <marker date="1432958266659" expanded="true" signature="21559:21659" placeholder="SELECT STATU..t_pegawai_aktif..." />
+            <marker date="1432958266659" expanded="true" signature="21965:22497" placeholder="SELECT DESKR..t_sikad_rapor_deskripsi..." />
+            <marker date="1432958266659" expanded="true" signature="26221:26367" placeholder="SELECT * FRO..t_nilai_rapor..." />
+            <marker date="1432958266659" expanded="true" signature="27017:27097" placeholder="SELECT NM_TI..r_tingkat_kelas..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19130434" vertical-offset="4643" max-vertical-offset="5304">
-          <caret line="273" column="0" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.46678966" vertical-offset="4184" max-vertical-offset="5270">
+          <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
           <folding>
-            <marker date="1432938163320" expanded="true" signature="5545:5651" placeholder="..." />
+            <marker date="1432938846578" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
         </state>
       </provider>
