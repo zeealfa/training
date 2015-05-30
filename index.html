@@ -147,6 +147,7 @@
 
 <!-- inline scripts related to this page -->
 <script type="text/javascript" src="assets/js/select2.min.js"></script>
+<script type="text/javascript" src="assets/js/hashed.js"></script>
 <script type="text/javascript" src="assets/js/bootbox.min.js"></script>
 <script type="text/javascript">
     //you don't need this, just used for changing background
@@ -265,7 +266,7 @@
                 url: theUri,
                 jsonpCallback: 'jsonCallback',
                 dataType: 'jsonp',
-                data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: passw, uri: uri},
+                data: {tipe: 3, kunci: 'letmepass', nisnya: nisnya, passw: SHA1(passw), uri: uri},
                 success: function (results)
                 {
                     var strpesan=results.pesan;
