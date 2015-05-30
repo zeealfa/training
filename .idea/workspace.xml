@@ -32,10 +32,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46678966" vertical-offset="4184" max-vertical-offset="5270">
-              <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.46678966" vertical-offset="4235" max-vertical-offset="5270">
+              <caret line="260" column="31" selection-start-line="260" selection-start-column="31" selection-end-line="260" selection-end-column="31" />
               <folding>
-                <marker date="1432938846578" expanded="true" signature="5545:5651" placeholder="..." />
+                <marker date="1432959643276" expanded="true" signature="5545:5651" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -103,8 +103,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -213,7 +213,13 @@
       <option name="project" value="LOCAL" />
       <updated>1432938175327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="coba lagi">
+      <created>1432958714016</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1432958714016</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -316,10 +322,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46678966" vertical-offset="4184" max-vertical-offset="5270">
-          <caret line="257" column="29" selection-start-line="257" selection-start-column="29" selection-end-line="257" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.46678966" vertical-offset="4235" max-vertical-offset="5270">
+          <caret line="260" column="31" selection-start-line="260" selection-start-column="31" selection-end-line="260" selection-end-column="31" />
           <folding>
-            <marker date="1432938846578" expanded="true" signature="5545:5651" placeholder="..." />
+            <marker date="1432959643276" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
         </state>
       </provider>
