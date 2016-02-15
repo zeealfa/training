@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6204dee5-bf49-47db-b3fe-1ea26d9a08e7" name="Default" comment="coba lagi">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    <list default="true" id="6204dee5-bf49-47db-b3fe-1ea26d9a08e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sikadapp.iml" afterPath="$PROJECT_DIR$/sikadapp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sikadapp.iws" />
@@ -20,9 +21,6 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="sikadapp" />
@@ -32,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6236162" vertical-offset="4286" max-vertical-offset="5168">
-              <caret line="268" column="86" selection-start-line="268" selection-start-column="86" selection-end-line="268" selection-end-column="86" />
+            <state vertical-scroll-proportion="0.44567218">
+              <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
               <folding>
                 <marker date="1432962533793" expanded="true" signature="5545:5651" placeholder="..." />
               </folding>
@@ -44,60 +42,9 @@
       <file leaf-file-name="index1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5384614" vertical-offset="17155" max-vertical-offset="17697">
-              <caret line="1013" column="18" selection-start-line="1013" selection-start-column="18" selection-end-line="1013" selection-end-column="18" />
-              <folding>
-                <marker date="1432961108130" expanded="true" signature="36795:36897" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tabel13_8.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308" vertical-offset="459" max-vertical-offset="12988">
-              <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
-              <folding>
-                <marker date="1432958266659" expanded="true" signature="559:629" placeholder="SELECT * FRO..t_pegawai_rombel..." />
-                <marker date="1432958266659" expanded="true" signature="738:1124" placeholder="DELETE FROM ..." />
-                <marker date="1432958266659" expanded="true" signature="1211:1797" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-                <marker date="1432958266659" expanded="true" signature="1211:1806" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-                <marker date="1432958266659" expanded="true" signature="1965:2020" placeholder="SELECT * FRO..t_sikad_konversi_sikap..." />
-                <marker date="1432958266659" expanded="true" signature="2245:2481" placeholder="SELECT NILAI..t_sikad_konversi..." />
-                <marker date="1432958266659" expanded="true" signature="2640:2875" placeholder="SELECT NILAI..t_sikad_konversi..." />
-                <marker date="1432958266659" expanded="true" signature="3566:5174" placeholder="SELECT t_sik..t_sikad_nilai_master..." />
-                <marker date="1432958266659" expanded="true" signature="8060:8626" placeholder="SELECT ID_RA..t_sikad_rapor_deskripsi..." />
-                <marker date="1432958266659" expanded="true" signature="8788:9171" placeholder="INSERT INTO ..." />
-                <marker date="1432958266659" expanded="true" signature="12969:13170" placeholder="SELECT GELAR..t_pegawai..." />
-                <marker date="1432958266659" expanded="true" signature="13232:13329" placeholder="SELECT GELAR..t_pegawai..." />
-                <marker date="1432958266659" expanded="true" signature="13832:14191" placeholder="SELECT *,NM_..t_sekolah_identitas..." />
-                <marker date="1432958266659" expanded="true" signature="14210:14643" placeholder="SELECT NIP,N..t_pegawai_rombel..." />
-                <marker date="1432958266659" expanded="true" signature="15266:15817" placeholder="SELECT t_sis..t_siswa_tingkat..." />
-                <marker date="1432958266659" expanded="true" signature="18157:18777" placeholder="SELECT t_sik..t_sikad_enrollment..." />
-                <marker date="1432958266659" expanded="true" signature="19803:19898" placeholder="SELECT NM_KE..r_sikad_kelompok_mapel..." />
-                <marker date="1432958266659" expanded="true" signature="21382:21453" placeholder="SELECT GELAR..t_pegawai..." />
-                <marker date="1432958266659" expanded="true" signature="21559:21659" placeholder="SELECT STATU..t_pegawai_aktif..." />
-                <marker date="1432958266659" expanded="true" signature="21965:22497" placeholder="SELECT DESKR..t_sikad_rapor_deskripsi..." />
-                <marker date="1432958266659" expanded="true" signature="26221:26367" placeholder="SELECT * FRO..t_nilai_rapor..." />
-                <marker date="1432958266659" expanded="true" signature="27017:27097" placeholder="SELECT NM_TI..r_tingkat_kelas..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55370/var/www/html/sikad/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1649">
-              <caret line="8" column="65" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="65" />
-              <folding>
-                <marker date="1432902622000" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
-                <marker date="1432902622000" expanded="true" signature="1198:1268" placeholder="SELECT ID_SI..t_sikad..." />
-                <marker date="1432902622000" expanded="true" signature="2031:2082" placeholder="SELECT URI f..t_sikad..." />
-                <marker date="1432902622000" expanded="true" signature="2444:2560" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-                <marker date="1432902622000" expanded="true" signature="2877:2959" placeholder="SELECT NIS F..t_siswa_mir..." />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="992" column="18" selection-start-line="992" selection-start-column="18" selection-end-line="992" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -123,6 +70,9 @@
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -174,12 +124,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane />
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,9 +137,9 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
-    <list size="0" />
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -250,37 +200,43 @@
       <option name="project" value="LOCAL" />
       <updated>1432961137828</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hashing pw">
+      <created>1432962551614</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1432962551614</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3305369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25718608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3305369" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -295,76 +251,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
     <MESSAGE value="coba lagi" />
-    <option name="LAST_COMMIT_MESSAGE" value="coba lagi" />
+    <MESSAGE value="hashing pw" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashing pw" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp55370/var/www/html/sikad/app.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="1649">
-          <caret line="8" column="65" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1432902622000" expanded="true" signature="596:672" placeholder="SELECT * fro..t_sikad..." />
-            <marker date="1432902622000" expanded="true" signature="1198:1268" placeholder="SELECT ID_SI..t_sikad..." />
-            <marker date="1432902622000" expanded="true" signature="2031:2082" placeholder="SELECT URI f..t_sikad..." />
-            <marker date="1432902622000" expanded="true" signature="2444:2560" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-            <marker date="1432902622000" expanded="true" signature="2877:2959" placeholder="SELECT NIS F..t_siswa_mir..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp51222/var/www/html/sikad/tabel/tabel13_8.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308" vertical-offset="459" max-vertical-offset="12988">
-          <caret line="32" column="108" selection-start-line="32" selection-start-column="108" selection-end-line="32" selection-end-column="108" />
-          <folding>
-            <marker date="1432958266659" expanded="true" signature="559:629" placeholder="SELECT * FRO..t_pegawai_rombel..." />
-            <marker date="1432958266659" expanded="true" signature="738:1124" placeholder="DELETE FROM ..." />
-            <marker date="1432958266659" expanded="true" signature="1211:1797" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-            <marker date="1432958266659" expanded="true" signature="1211:1806" placeholder="SELECT NO_UR..v_siswa_tingkat..." />
-            <marker date="1432958266659" expanded="true" signature="1965:2020" placeholder="SELECT * FRO..t_sikad_konversi_sikap..." />
-            <marker date="1432958266659" expanded="true" signature="2245:2481" placeholder="SELECT NILAI..t_sikad_konversi..." />
-            <marker date="1432958266659" expanded="true" signature="2640:2875" placeholder="SELECT NILAI..t_sikad_konversi..." />
-            <marker date="1432958266659" expanded="true" signature="3566:5174" placeholder="SELECT t_sik..t_sikad_nilai_master..." />
-            <marker date="1432958266659" expanded="true" signature="8060:8626" placeholder="SELECT ID_RA..t_sikad_rapor_deskripsi..." />
-            <marker date="1432958266659" expanded="true" signature="8788:9171" placeholder="INSERT INTO ..." />
-            <marker date="1432958266659" expanded="true" signature="12969:13170" placeholder="SELECT GELAR..t_pegawai..." />
-            <marker date="1432958266659" expanded="true" signature="13232:13329" placeholder="SELECT GELAR..t_pegawai..." />
-            <marker date="1432958266659" expanded="true" signature="13832:14191" placeholder="SELECT *,NM_..t_sekolah_identitas..." />
-            <marker date="1432958266659" expanded="true" signature="14210:14643" placeholder="SELECT NIP,N..t_pegawai_rombel..." />
-            <marker date="1432958266659" expanded="true" signature="15266:15817" placeholder="SELECT t_sis..t_siswa_tingkat..." />
-            <marker date="1432958266659" expanded="true" signature="18157:18777" placeholder="SELECT t_sik..t_sikad_enrollment..." />
-            <marker date="1432958266659" expanded="true" signature="19803:19898" placeholder="SELECT NM_KE..r_sikad_kelompok_mapel..." />
-            <marker date="1432958266659" expanded="true" signature="21382:21453" placeholder="SELECT GELAR..t_pegawai..." />
-            <marker date="1432958266659" expanded="true" signature="21559:21659" placeholder="SELECT STATU..t_pegawai_aktif..." />
-            <marker date="1432958266659" expanded="true" signature="21965:22497" placeholder="SELECT DESKR..t_sikad_rapor_deskripsi..." />
-            <marker date="1432958266659" expanded="true" signature="26221:26367" placeholder="SELECT * FRO..t_nilai_rapor..." />
-            <marker date="1432958266659" expanded="true" signature="27017:27097" placeholder="SELECT NM_TI..r_tingkat_kelas..." />
+            <marker date="1432962533793" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5384614" vertical-offset="17155" max-vertical-offset="17697">
-          <caret line="1013" column="18" selection-start-line="1013" selection-start-column="18" selection-end-line="1013" selection-end-column="18" />
-          <folding>
-            <marker date="1432961108130" expanded="true" signature="36795:36897" placeholder="..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="992" column="18" selection-start-line="992" selection-start-column="18" selection-end-line="992" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6236162" vertical-offset="4286" max-vertical-offset="5168">
-          <caret line="268" column="86" selection-start-line="268" selection-start-column="86" selection-end-line="268" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1432962533793" expanded="true" signature="5545:5651" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1013" column="18" selection-start-line="1013" selection-start-column="18" selection-end-line="1013" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1432962533793" expanded="true" signature="5545:5651" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1013" column="18" selection-start-line="1013" selection-start-column="18" selection-end-line="1013" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="992" column="18" selection-start-line="992" selection-start-column="18" selection-end-line="992" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44567218">
+          <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
           <folding>
             <marker date="1432962533793" expanded="true" signature="5545:5651" placeholder="..." />
           </folding>
